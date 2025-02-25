@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t}from"./chunks/framework.gSKzFT2J.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"fr/advanced/add-ssh.md","filePath":"fr/advanced/add-ssh.md"}'),d={name:"fr/advanced/add-ssh.md"};function s(r,c,n,o,f,p){return t(),e("div")}const m=a(d,[["render",s]]);export{i as __pageData,m as default};
