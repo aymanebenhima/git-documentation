@@ -1,0 +1,1 @@
+import{_ as i,c as s,o as a,a2 as e}from"./chunks/framework.BThh_NHy.js";const E=JSON.parse('{"title":"Loops in C","description":"","frontmatter":{},"headers":[],"relativePath":"en/loops.md","filePath":"en/loops.md"}'),n={name:"en/loops.md"},t=e("",28),o=[t];function h(l,p,r,k,d,c){return a(),s("div",null,o)}const u=i(n,[["render",h]]);export{E as __pageData,u as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.BThh_NHy.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"fr/comments.md","filePath":"fr/comments.md"}'),r={name:"fr/comments.md"};function a(s,c,n,m,f,p){return o(),t("div")}const i=e(r,[["render",a]]);export{d as __pageData,i as default};

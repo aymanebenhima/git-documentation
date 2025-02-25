@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.BThh_NHy.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"fr/dataTypes.md","filePath":"fr/dataTypes.md"}'),r={name:"fr/dataTypes.md"};function s(o,c,n,p,d,f){return a(),t("div")}const m=e(r,[["render",s]]);export{i as __pageData,m as default};

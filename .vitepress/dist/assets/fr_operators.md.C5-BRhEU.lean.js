@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t}from"./chunks/framework.BThh_NHy.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"fr/operators.md","filePath":"fr/operators.md"}'),o={name:"fr/operators.md"};function a(s,c,n,p,f,_){return t(),r("div")}const m=e(o,[["render",a]]);export{i as __pageData,m as default};

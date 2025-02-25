@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t}from"./chunks/framework.BThh_NHy.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"fr/booleans.md","filePath":"fr/booleans.md"}'),a={name:"fr/booleans.md"};function r(s,n,c,f,l,p){return t(),o("div")}const i=e(a,[["render",r]]);export{d as __pageData,i as default};
